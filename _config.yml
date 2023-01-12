@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/CV23.pdf", title: "Curriculum Vitae", icon: home}
+  - {file: "CV23.pdf", title: "Curriculum Vitae", icon: home}
 # - {title: "Supporting Documents", file:"/supporting_documents"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
