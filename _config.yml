@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "/CV23.pdf", title: "Curriculum Vitae", icon: home}
+# - {title: "Supporting Documents", file:"/supporting_documents"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:YNCHEN2021@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/YNCHEN23"}
- # - {title: Subscribe, icon: rss, url: "/feed.xml"}
+# - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
